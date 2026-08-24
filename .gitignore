@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Legacy source-control bindings
+*.scc
+*.vssscc
+*.vspscc
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+*.jks
+*.keystore
+.env
