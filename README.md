@@ -23,6 +23,10 @@ C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Direct
 
 Open `LDAP.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 4.0
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2013
