@@ -1,16 +1,8 @@
 # active-directory-ldap-tools
 
-**Source last updated:** 2013-10-22
+C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. The AD class library uses System.DirectoryServices and related LDAP APIs; ManageUsers is a small Convert-button host around Helper.GetUser (still unfinished). A source comment points at the old ADLinq CodePlex project.
 
-C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. The AD class library talks to System.DirectoryServices and related LDAP APIs; ManageUsers is a small Convert-button host around Helper.GetUser, which is still unfinished. A source comment points at the old ADLinq CodePlex project. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
-
-**Language:** C#  
-**Target:** .NET Framework 4.0 / Visual Studio 2012  
-**Output:** Class library (AD) and WinExe (ManageUsers)
-
-## What it is
-
-C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. The AD class library talks to System.DirectoryServices and related LDAP APIs; ManageUsers is a small Convert-button host around Helper.GetUser, which is still unfinished. A source comment points at the old ADLinq CodePlex project. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+**Source last updated:** 2013-10-22 · **Language:** C# · **Target:** .NET Framework 4.0 / Visual Studio 2012 · **Output:** class library (AD) and WinExe (ManageUsers)
 
 ## Solution structure
 
